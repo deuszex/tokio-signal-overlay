@@ -1,0 +1,9 @@
+[package]
+name = "signal_handler"
+version = "0.1.0"
+authors = ["Deusz <lovaszoltanr@gmail.com>"]
+
+[dependencies]
+futures = "*"
+tokio-signal = "*"
+tokio-core = "*"
